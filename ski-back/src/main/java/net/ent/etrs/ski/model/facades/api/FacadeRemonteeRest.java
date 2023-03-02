@@ -14,7 +14,8 @@ import java.util.Optional;
 
 @Path("/remontees")
 public class FacadeRemonteeRest {
-    
+
+
     @Inject
     private FacadeRemontee facadeRemontee;
 
